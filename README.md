@@ -1,8 +1,8 @@
 # PHP developer roadmap
 
-> This is iqwrwq's personal checklist for the PHP-Developer-Roadmap
-> The original Resources are from another Github-Repository
-> Shoutout to *TheCodeholic* for <a href="https://github.com/thecodeholic/php-developer-roadmap disabled">this beautiful work</a>
+> This is iqwrwq's personal checklist for the PHP-Developer-Roadmap.
+> The original Resources are from another Github-Repository.
+> Shoutouts to *TheCodeholic* for <a href="https://github.com/thecodeholic/php-developer-roadmap disabled">this beautiful work</a>
 
 ### How Internet & Websites works
 | Resource Name                             |Duration|Took    | Resource                                                |Status                          |     
